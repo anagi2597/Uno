@@ -1,0 +1,7 @@
+Here is Fadi's current hand:
+1: Red Reverse
+2: Yellow 3
+3: Red 3
+4: Red 5
+5: Green 4
+6: Wild Card

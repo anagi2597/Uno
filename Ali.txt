@@ -1,0 +1,8 @@
+Here is Ali's current hand:
+1: Green 7
+2: Blue Skip
+3: Blue 3
+4: Red 5
+5: Red 2
+6: Yellow 1
+7: Red 5
